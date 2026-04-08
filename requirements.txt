@@ -1,0 +1,4 @@
+pyairtable
+requests
+python-dotenv
+apify-client
